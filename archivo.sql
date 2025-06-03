@@ -1,1 +1,4 @@
-select * from usuario;
+<<<<<<< Updated upstream
+select * from usuarios;
+=======
+
