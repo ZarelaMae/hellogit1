@@ -1,4 +1,4 @@
 <<<<<<< Updated upstream
-select * from usuarios;
+select * from usuarios where id=5;
 =======
 
